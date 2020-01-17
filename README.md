@@ -20,6 +20,10 @@ speak some Chinese once it's finished doing what it's doing you can remove the f
 The ceshi.ini file did not work for me, using incorrect ini file lines will cause the camera to freeze during the update, to fix this
 just remove lines from your ini file until it works, or if that's awkward just remove the ini file entirely.
 
+"rtsp" added to the ini file allowed me to view the camera locally using vlc player (any rtsp viewer really) via:  
+rtsp://CAMERA-IP-HERE/ for "SD"  
+rtsp://CAMERA-IP-HERE/live/ch00_1 for "HD"  
+
 Here are some params I've found online (very few worked for me, use at your own risk):  
   
 [CONST_PARAM]  
