@@ -9,7 +9,7 @@ This is the link: https://uk.banggood.com/10LED-5X-Zoom-HD-2MP-IP-Security-Camer
 
 The instructions I was given along with the "AK3918E-V200__V2.6.3.3_2019-11-13" Firmware are as follows:
 
-1. Extract the contense of the zip file to the root folder of your SD card (not into any other folder that may be there).
+1. Extract the content of the zip file to the root folder of your SD card (not into any other folder that may be there).
 2. Insert the SD card back into the camera and restart the camera, you should hear "firmware update has started" followed by a short pause and then "firmware update completed".
 3. Once the firmware update has been completed, wait for the camera to say "system starting, system startup complete, wifi connected/internet connected" and then power off the camera.
 4. Remove the SD card and delete the firmware update files, place the sd card back inside the camera and restart. Your firmware update should be completed.
