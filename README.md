@@ -21,6 +21,7 @@ The ceshi.ini file did not work for me, using incorrect ini file lines will caus
 just remove lines from your ini file until it works, or if that's awkward just remove the ini file entirely.
 
 Here are some params I've found online (very few worked for me, use at your own risk):  
+  
 [CONST_PARAM]  
 rtsp=1  
 rtspaudio=1  
