@@ -17,7 +17,7 @@ The instructions I was given along with the "AK3918E-V200__V2.6.3.3_2019-11-13" 
 The ceshi.ini file's instructions are much the same, copying the file to SD root and restarting the camera, except this time the camera will
 speak some Chinese once it's finished doing what it's doing you can remove the file from the SD card and restart again.
 
-The ceshi.ini file did not work for me, using incorrect ini file lines will cause the camera to freeze during the update, to fix this
+The ceshi.ini file did not work too well for me personally, and using an incorrect ini file param will cause the camera to freeze during the update, to fix this
 just remove lines from your ini file until it works, or if that's awkward just remove the ini file entirely.
 
 "rtsp" added to the ini file allowed me to view the camera locally using vlc player (any rtsp viewer really) via:  
